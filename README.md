@@ -8,3 +8,5 @@ Flyme 8 [8.21.1.12] - https://github.com/FoxetGSI/FoxetGSI-release/releases/tag/
 # Android 11
 
 # Android 12
+
+# Android 13
